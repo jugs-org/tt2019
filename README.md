@@ -22,6 +22,7 @@ am 25. &amp; 26. April 2019
 1. JohannesMerkert
    * [Test-Inventare - Ein leichtgewichtiger Ansatz für die Qualitätssicherung](Freitag/JohannesMerkert)
 2. JeremiasRoessler
+   * [Testautomatisierung ohne Assertions](Freitag/JeremiasRoessler)
 3. RicoPfaus
 4. FlorianPfleiderer
    * [Grundlagen und Aspekte der API Kompatibilität und wie man diese nachhaltig beherrscht](Freitag/FlorianPfleiderer)
