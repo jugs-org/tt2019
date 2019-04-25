@@ -9,6 +9,7 @@ am 25. &amp; 26. April 2019
 ## Donnerstag
 
 1. ChristianKuehn
+   * [Security Testing in Continuous Integration](Donnerstag/ChristianKuehn)
 2. BernhardLubomski
    * [Open Source Application Performance Monitoring (APM) Tools - Ein Überblick über APM Tools und Standards für Java-basierte Enterprise-Anwendungen](Donnerstag/BernhardLubomski)
 3. AntoniyaAtanasova
