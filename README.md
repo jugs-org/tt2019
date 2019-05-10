@@ -14,8 +14,8 @@ am 25. &amp; 26. April 2019
    * [Open Source Application Performance Monitoring (APM) Tools - Ein Überblick über APM Tools und Standards für Java-basierte Enterprise-Anwendungen](Donnerstag/BernhardLubomski)
 3. AntoniyaAtanasova
    * [Macht Eure Microservices nicht Kaputt! Consumer Driven Contracts in der Praxis](Donnerstag/AntoniyaAtanasova)
-4. IstvanForgacs
-   * [Automatisieren wir die Testautomatisierung](Donnerstag/IstvanForgacs)
+4. ZoltanHrabovszki
+   * [Automatisieren wir die Testautomatisierung](Donnerstag/ZoltanHrabovszki)
 
 
 ## Freitag
